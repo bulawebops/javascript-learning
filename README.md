@@ -23,3 +23,11 @@ Introduce recent features that extend each of the core pillars including immutab
 1. Write clean, readable and resilient code for us and our teams
 2. Autonomously tackle any new feature, tool or codebase
 
+# Contents
+1. Principles of Javascript
+2. Callbacks & High Order Functions
+3. Closure (scope and execution context)
+4. Type Coercion & Metaprogramming
+5. Asynchronous JavaScript & event loop
+6. Classes & Prototypes (OOP)
+
