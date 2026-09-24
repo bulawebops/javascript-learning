@@ -1,4 +1,9 @@
 # Javascript Fundamentals
-## Mission: create the next generation engineers
-Explain hard concepts of Javascript in simpler ways
+## Mission: Create the next generation software engineers
+### Approach
++ Analytical problem solving
++ Technical communication
++ Engineering approach
++ Non-technical communication
++ Javascript and programming experience
 
